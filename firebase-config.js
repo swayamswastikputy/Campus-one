@@ -1,11 +1,12 @@
 // CampusOne Firebase configuration
-// Paste the configuration object from Firebase Console > Project settings > Your apps.
+// Firebase web configuration contains public project identifiers.
 // Do not put passwords, service-account private keys, or other private credentials here.
 export const firebaseConfig = {
-  apiKey: "PASTE_YOUR_API_KEY",
-  authDomain: "PASTE_YOUR_AUTH_DOMAIN",
-  projectId: "PASTE_YOUR_PROJECT_ID",
-  storageBucket: "PASTE_YOUR_STORAGE_BUCKET",
-  messagingSenderId: "PASTE_YOUR_MESSAGING_SENDER_ID",
-  appId: "PASTE_YOUR_APP_ID"
+  apiKey: "AIzaSyDpD-ekaARGDvbKJoAkIyJTzmcfpVzWXxU",
+  authDomain: "campus-connect-cfc39.firebaseapp.com",
+  projectId: "campus-connect-cfc39",
+  storageBucket: "campus-connect-cfc39.firebasestorage.app",
+  messagingSenderId: "910095527530",
+  appId: "1:910095527530:web:0d039e9049ab682fdde413",
+  measurementId: "G-YCW90NSGW5"
 };
